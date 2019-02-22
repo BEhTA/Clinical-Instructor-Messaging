@@ -1,19 +1,19 @@
 ```markdown
-## Background
+Background
 -bullet list
 
 
-## Current Findings
+Current Findings
 -bullet list
 
 
-## Interesting Finds
--bullet list
+ Interesting Finds
+ -bullet list
 ```
 
 
 
-## Contact Us
+### Contact Us
 BEhTA.lab.mu@gmail.com
 
 -[Facebook]()
